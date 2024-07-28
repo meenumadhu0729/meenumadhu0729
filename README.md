@@ -50,12 +50,12 @@ __Postman__
 * Performed API testing using Postman.
 
 ## Work Experience
-__Trainings__
+### Trainings
 * Got trained in manual and automation testing on below mentioned tools.
 * Used project management tools like HP ALM and JIRA
 * Got trained in Selenium, Cucumber, Micro focus UFT
 
-__Projects__
+### Projects
 * Identified discrepancies across the Requirement and design in the testing life cycle. Thus increase the quality standards of the Requirements & Design and would reduce the requirement level changes during the E2E Testing phase.
 * Engaged with the Business Owners, Stakeholders & CE Leads as part of the review process and work closely with them to fix the discrepancies in RA phase
 * Create TDD scripts on JIRA based on the requirement.
